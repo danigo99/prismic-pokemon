@@ -1,0 +1,26 @@
+[
+  {
+    "variation": "default",
+    "version": "sktwi1xtmkfgx8626",
+    "items": [
+      {}
+    ],
+    "primary": {
+      "title": [
+        {
+          "type": "heading1",
+          "text": "Operation",
+          "spans": []
+        }
+      ],
+      "description": [
+        {
+          "type": "paragraph",
+          "text": "Sunt ut mollit occaecat fugiat reprehenderit reprehenderit reprehenderit esse nulla.",
+          "spans": []
+        }
+      ]
+    },
+    "slice_type": "news"
+  }
+]
